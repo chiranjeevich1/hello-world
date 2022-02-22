@@ -1,1 +1,1 @@
-<h1>Demo project for poll SCM capabality with Jenkins</h1>
+<h1>Demo project for GIT SCM polling</h1>
