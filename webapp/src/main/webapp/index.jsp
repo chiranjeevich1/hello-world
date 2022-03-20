@@ -1,1 +1,1 @@
-<h1>Demo project for GIT SCM Polling</h1>
+<h1>Demo project for GIT SCM Polling (push project)</h1>
